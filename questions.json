@@ -1,0 +1,39 @@
+[
+  
+  
+  {
+    "questionNo": 6,
+    "question": "Alice made sandwiches. Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["2","×","","=","6"],
+    "answers": ["2","×","3","=","6"],
+    "secondImg":"./images/6.jpg"
+  },
+  {
+    "questionNo": 7,
+    "question": "Alice placed pies on the trays. Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["","×","2","=","6"],
+    "answers": ["3","×","2","=","6"],
+    "secondImg":"./images/7.jpg"
+  },
+  {
+    "questionNo": 8,
+    "question": " Alice made pastries. Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["","×","4","=","12"],
+    "answers": ["3","×","4","=","12"],
+    "secondImg":"./images/8.jpg"
+  },
+  {
+    "questionNo": 9,
+    "question": "Alice distributed candies among the customers. Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["2","×","","=","10"],
+    "answers": ["2","×","5","=","10"],
+    "secondImg":"./images/9.jpg"
+  },
+  {
+    "questionNo": 10,
+    "question": "Alice set tea cups on the table.  Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["","×","5","=","15"],
+    "answers": ["3","×","5","=","15"],
+    "secondImg":"./images/10.jpg"
+  }
+]
